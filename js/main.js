@@ -3382,6 +3382,299 @@ var games = {
 			}
 		]
 	},
+		'sv': {
+		'id': 'sv',
+		'title': 'Scarlet and Violet',
+		'nameLimit': 12,
+		'dexLimit': 900,
+		'loaded': false,
+		'locations': [
+			{
+				"name": "Starter",
+				"value": 0
+			},
+			{
+				"name": "Cabo Verde",
+				"value": 1
+			},
+			{
+				"name": "Cabo Path",
+				"value": 2
+			},
+			{
+				"name": "Indigo Grotto",
+				"value": 3
+			},
+			{
+				"name": "South Province: Area 1",
+				"value": 4
+			},
+			{
+				"name": "South Province: Area 2",
+				"value": 5
+			},
+			{
+				"name": "West Province: Area 1",
+				"value": 6
+			},
+			{
+				"name": "West Province: Area 2,
+				"value": 7
+			},
+			{
+				"name": "Verdant Cavern",
+				"value": 8
+			},
+			{
+				"name": "Hau'oli Cemetery",
+				"value": 9
+			},
+			{
+				"name": "Route 3",
+				"value": 10
+			},
+			{
+				"name": "Melemele Meadow",
+				"value": 11
+			},
+			{
+				"name": "Seaward Cave",
+				"value": 12
+			},
+			{
+				"name": "Kala'e Bay",
+				"value": 13
+			},
+			{
+				"name": "Ten Carat Hill",
+				"value": 14
+			},
+			{
+				"name": "Hano Beach",
+				"value": 15
+			},
+			{
+				"name": "Route 4",
+				"value": 16
+			},
+			{
+				"name": "Paniola Town",
+				"value": 17
+			},
+			{
+				"name": "Paniola Ranch",
+				"value": 18
+			},
+			{
+				"name": "Route 5",
+				"value": 19
+			},
+			{
+				"name": "Brooklet Hill",
+				"value": 20
+			},
+			{
+				"name": "Route 6",
+				"value": 21
+			},
+			{
+				"name": "Route 7",
+				"value": 22
+			},
+			{
+				"name": "Wela Volcano Park",
+				"value": 23
+			},
+			{
+				"name": "Dividing Peak Tunnel",
+				"value": 24
+			},
+			{
+				"name": "Route 8",
+				"value": 25
+			},
+			{
+				"name": "Fossil Restoration Center",
+				"value": 26
+			},
+			{
+				"name": "Lush Jungle",
+				"value": 27
+			},
+			{
+				"name": "Diglett's Tunnel",
+				"value": 28
+			},
+			{
+				"name": "Route 9",
+				"value": 29
+			},
+			{
+				"name": "Konikoni City",
+				"value": 30
+			},
+			{
+				"name": "Memorial Hill",
+				"value": 31
+			},
+			{
+				"name": "Akala Outskirts",
+				"value": 32
+			},
+			{
+				"name": "Malie City",
+				"value": 33
+			},
+			{
+				"name": "Malie Garden",
+				"value": 34
+			},
+			{
+				"name": "Route 10",
+				"value": 35
+			},
+			{
+				"name": "Mount Hokulani",
+				"value": 36
+			},
+			{
+				"name": "Route 11",
+				"value": 37
+			},
+			{
+				"name": "Route 12",
+				"value": 38
+			},
+			{
+				"name": "Secluded Shore",
+				"value": 39
+			},
+			{
+				"name": "Blush Mountain",
+				"value": 40
+			},
+			{
+				"name": "Route 13",
+				"value": 41
+			},
+			{
+				"name": "Haina Desert",
+				"value": 42
+			},
+			{
+				"name": "Tapu Village",
+				"value": 43
+			},
+			{
+				"name": "Route 15",
+				"value": 44
+			},
+			{
+				"name": "Aether House",
+				"value": 45
+			},
+			{
+				"name": "Route 14",
+				"value": 46
+			},
+			{
+				"name": "Thrifty Megamart",
+				"value": 47
+			},
+			{
+				"name": "Route 16",
+				"value": 48
+			},
+			{
+				"name": "Ula'ula Meadow",
+				"value": 49
+			},
+			{
+				"name": "Lake of the Moone/Sunne",
+				"value": 50
+			},
+			{
+				"name": "Route 17",
+				"value": 51
+			},
+			{
+				"name": "Shady House",
+				"value": 52
+			},
+			{
+				"name": "Seafolk Village",
+				"value": 53
+			},
+			{
+				"name": "Poni Wilds",
+				"value": 54
+			},
+			{
+				"name": "Ancient Poni Path",
+				"value": 55
+			},
+			{
+				"name": "Poni Breaker Coast",
+				"value": 56
+			},
+			{
+				"name": "Exeggutor Island",
+				"value": 57
+			},
+			{
+				"name": "Vast Poni Canyon",
+				"value": 58
+			},
+			{
+				"name": "Altar of the Moone/Sunne",
+				"value": 59
+			},
+			{
+				"name": "Mount Lanakila",
+				"value": 60
+			},
+			{
+				"name": "Poni Grove",
+				"value": 61
+			},
+			{
+				"name": "Poni Plains",
+				"value": 62
+			},
+			{
+				"name": "Poni Meadow",
+				"value": 63
+			},
+			{
+				"name": "Resolution Cave",
+				"value": 64
+			},
+			{
+				"name": "Poni Coast",
+				"value": 65
+			},
+			{
+				"name": "Poni Gauntlet",
+				"value": 66
+			},
+			{
+				"name": "Ruins of Conflict",
+				"value": 67
+			},
+			{
+				"name": "Ruins of Life",
+				"value": 68
+			},
+			{
+				"name": "Ruins of Abundance",
+				"value": 69
+			},
+			{
+				"name": "Ruins of Hope",
+				"value": 70
+			}
+		]
+	},
 	'swsh': {
 		'id': 'swsh',
 		'title': 'Sword and Shield',
